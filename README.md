@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swamy Yoganathan</h1>
-<h3 align="center">Turning 0's and 1's into insightsy</h3>
+<h3 align="center">Turning 0's and 1's into insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamyyoganathan&label=Profile%20views&color=0e75b6&style=flat" alt="swamyyoganathan" /> </p>
 
-- 🔭 I’m currently working on [Azure DP 900]([https](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/))
+- 🔭 I’m currently working on [Azure DP 900]([https](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/)
 
 - 🌱 I’m currently learning **SQL, Python, Power BI and Tableau**
 
