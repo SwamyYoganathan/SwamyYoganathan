@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamyyoganathan&label=Profile%20views&color=0e75b6&style=flat" alt="swamyyoganathan" /> </p>
 
-- 🔭 I’m currently working on [Azure DP 900]([https](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/)
+- 🔭 I’m currently working on [Azure DP 300](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-300/)
 
 - 🌱 I’m currently learning **SQL, Python, Power BI and Tableau**
 
-- 💬 Ask me about **Excel, Sql**
+- 💬 Ask me about **Excel, Power BI, Tableau Sql, Python**
 
-- 📫 How to reach me **karuppanaswamy.y@gmail.com**
+- 📫 How to reach me **swamyyoganathan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
