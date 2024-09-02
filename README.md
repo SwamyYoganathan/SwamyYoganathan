@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Azure DP 300](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-300/)
 
-- 🌱 I’m currently learning **SQL, Python, Power BI and Tableau**
+- 🌱 I’m currently learning **Cloud computing and Machine Learning**
 
 - 💬 Ask me about **Excel, Power BI, Tableau Sql, Python**
 
